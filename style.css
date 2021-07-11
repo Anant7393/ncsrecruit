@@ -56,11 +56,11 @@
 .kk a{
     text-decoration: none;
     color: black;
-    line-height: 1cm;
+    line-height: .5cm;
     background: 1px solid;
     padding: 5px;
 }
 .kk a:hover{
     color: #3b49df;
-    ;
+    
     }
