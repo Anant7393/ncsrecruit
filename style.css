@@ -45,14 +45,22 @@
 .toast-show{
     width: 550px !important;
 }
-.kk ul li a{
+.kk ul li {
   text-decoration: none;
   color: black;
-  line-height: 1cm;
+  line-height: .6cm;
   background: 1px solid;
   padding: 5px;
 }
-.kk ul li a:hover{
-color: #3b49df;
-background-color: #eceeef;
+
+.kk a{
+    text-decoration: none;
+    color: black;
+    line-height: 1cm;
+    background: 1px solid;
+    padding: 5px;
 }
+.kk a:hover{
+    color: #3b49df;
+    ;
+    }
